@@ -31,4 +31,4 @@ Here are some tips to develop a growth mindset :
 
 *****************************************************************
 
-## [ Home ](https://reemalqurm.github.io/reading-notes/)
+## [ Home ](https://reem-alqurm.github.io/ReadingNotes/)

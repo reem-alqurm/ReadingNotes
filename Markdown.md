@@ -47,7 +47,7 @@ To know more about github page please watch this video :
 
 *****************************************************************
 
-## [ Home ](https://reemalqurm.github.io/reading-notes/)
+## [ Home ](https://reem-alqurm.github.io/ReadingNotes/)
 
 
 
