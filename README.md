@@ -20,7 +20,7 @@ Here you can find all my reading notes to my jorny at ASAC.
 
 * [Class-01](https://reem-alqurm.github.io/ReadingNotes/class-01)
 * [Class-02](https://reem-alqurm.github.io/ReadingNotes/class-02)
-* [Class-02](https://reem-alqurm.github.io/ReadingNotes/class-03)  
+* [Class-03](https://reem-alqurm.github.io/ReadingNotes/class-03)  
 
 *****************************************************************
 
