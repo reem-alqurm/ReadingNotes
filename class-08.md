@@ -1,60 +1,54 @@
-## Domain Modeling
+# Links & Layout
 
-![Image](PD.jpg)
+## Links 
 
+* Links are the defining feature of the web because they allow you to move from
+one web page to another — enabling the very idea of browsing or surfing.
 
-* Domain modeling is the process of creating a conceptual model in code for a specific problem.
-* A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain.
-*  An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
-* It defines a vocabulary that can be used within and between both technical and business teams.
+* Links are created using the `<a>` element. Users can click on anything
+between the opening `<a>` tag and the closing `</a>` tag. You specify
+which page you want to link to using the href attribute.
 
-A domain
+* Relative URLs can be used when linking to pages within your own
+website. They provide a shorthand way of telling the browser where to
+find your files.
 
-- Learning a new technology
-- Naming things
-- Testing your code
-- Debugging
-- Fixing bugs
-- Making software maintainable
+* If you want a link to open in a new window, you can use the
+target attribute on the opening `<a>` tag. The value of this
+attribute should be *_blank*.
 
-* We put together code with the purpose of building components that we have taken out of the problem domain.
-
-* many problem domains are like a puzzle with a blurry picture or no picture at all.
-* you should take the time to clearly understand the problem domain before writing any code.
-* You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
+* To link to an element that uses an id attribute you use the `<a>`element again, but the value of
+the href attribute starts with the *#* symbol, followed by the
+value of the id attribute of the element you want to link to. 
 
 
-## Objects 
+## Layout 
 
-* Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
+* CSS treats each HTML element as if it is in its own box.
+ This box will either be a block-level box or an inline box.
+* If one block-level element sits inside another block-level element then the outer box is
+known as the containing or parent element.
+* CSS has the following positioning schemes that allow you to control
+the layout of a page: normal flow, relative positioning, and absolute
+positioning.
+* To indicate where a box should be positioned, you may also need to use
+box offset properties to tell the browser how far from the top or bottom
+and left or right it should be placed. (You will meet these when we
+introduce the positioning schemes on the following pages.
+* The z-index property allows you to control which box appears
+on top.
+* Different visitors to your site will have different sized screens that show
+different amounts of information, so your design needs to be able to
+work on a range of different sized screens.
+* Resolution refers to the number of dots a screen shows per inch. Some
+devices have a higher resolution than desktop computers and most
+operating systems allow users to adjust the resolution of their screens.
 
-![Image](obj.png)
-
-* Object Literal Notation :
-
-![Image](https://qph.fs.quoracdn.net/main-qimg-6f87c772159dbc5807dab222e1e33702.webp)
+* Pages can be fixed width or liquid (stretchy) layouts.
 
 
+![Image](https://www.visual-paradigm.com/servlet/editor-content/tutorials/flowchart-tutorial/sites/7/2018/09/flowchart-example-medical-service.png)
 
-## DOM: 
-
-![Image](Dom.png)
-
-
-
-* Document Object Model (DOM) :
-
-- The Document Object Model DOM specifies how browsers should create a model of an HTML page and how javaScript can access and update the contents of a web page while it is in the browser window.
-
-- As a browser loads a web page, it creates a model of that page. The model is called **a DOM tree**, and it is stored in the browsers’ memory. It consists of four main types of nodes:
-
-* the document node :Every element, attribute, and piece of text in the HTML is represented by its own DOM node.
-
-* Attribute nodes: are not children of the element that carries them; they are part of that element. 
-
-* Text nodes cannot have children. If an element contains text and another child element, the child element is not a child of the text node but rather a child of the containing element.
-
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
 
 
 
