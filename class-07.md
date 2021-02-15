@@ -1,8 +1,12 @@
-## The Problem Domain 
-![Image](PD.jpg)
+## Domain Modeling
 
 
-* What is the hardest thing about writing code?
+* Domain modeling is the process of creating a conceptual model in code for a specific problem.
+* A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain.
+*  An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+* It defines a vocabulary that can be used within and between both technical and business teams.
+
+A domain
 
 - Learning a new technology
 - Naming things
@@ -18,37 +22,34 @@
 * You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
 
 
-## Objects 
+## Tables 
 
-* Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names.
+* A table represents information in a grid format. 
 
-![Image](obj.png)
+![Image](https://www.mediumpedia.com/wp-content/uploads/2020/08/Create-Tables-in-HTML.png)
 
-* Object Literal Notation :
-
-![Image](https://qph.fs.quoracdn.net/main-qimg-6f87c772159dbc5807dab222e1e33702.webp)
-
-
-
-## DOM: 
-
-![Image](Dom.png)
+* The `< table>` element is used to add tables to a web page.
+* A table contans a set of colomns and rows 
+* `<tr>` used to create new row `<td>` used to fill the data in. 
+* `<th>` used to make header .
 
 
+## Functions, Methods, and Objects: 
 
-* Document Object Model (DOM) :
+* Functions allow you to group a set of related statements together that represent a single task. 
+* An object is a series of variables (**properties**) and functions (**methods**).
 
-- The Document Object Model DOM specifies how browsers should create a model of an HTML page and how javaScript can access and update the contents of a web page while it is in the browser window.
+* Creating an object: constructor nation The new keyword and the object constructor create a blank object.
+* To update the value of properties, use dot nation or sequare brackets. `object.name='value`'
 
-- As a browser loads a web page, it creates a model of that page. The model is called **a DOM tree**, and it is stored in the browsers’ memory. It consists of four main types of nodes:
 
-* the document node :Every element, attribute, and piece of text in the HTML is represented by its own DOM node.
+* Web browsers implement objects that represent both the browser window and the document loaded into the browser window.
+* JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts.
 
-* Attribute nodes: are not children of the element that carries them; they are part of that element. 
+* Arrays and objects can be used to create complex datasets (and both can contain the other).
 
-* Text nodes cannot have children. If an element contains text and another child element, the child element is not a child of the text node but rather a child of the containing element.
 
-![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DOM-model.svg/1200px-DOM-model.svg.png)
+![Image](https://miro.medium.com/max/2722/1*iKJx57JU9sKdff-Os7upyA.png)
 
 
 
