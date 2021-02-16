@@ -6,7 +6,6 @@
 *  An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
 * It defines a vocabulary that can be used within and between both technical and business teams.
 
-A domain
 
 - Learning a new technology
 - Naming things
