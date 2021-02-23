@@ -114,7 +114,7 @@ Structure and clarity: Everyone knows what their specific expectations are. Thes
 
 2. a high overall level of social sensitivity 
 
-![Image](hhttps://image.slidesharecdn.com/7-lessons-better-entrepreneur-180906154106/95/7-lessons-that-would-have-made-me-a-better-entrepreneur-57-638.jpg?cb=1536248554)
+![Image](https://image.slidesharecdn.com/7-lessons-better-entrepreneur-180906154106/95/7-lessons-that-would-have-made-me-a-better-entrepreneur-57-638.jpg?cb=1536248554)
 
 *****************************************************************
 
