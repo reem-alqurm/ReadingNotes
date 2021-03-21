@@ -35,6 +35,7 @@ Here you can find all my reading notes to my jorny at ASAC.
 
 ### Code 301 - Intermediate Software Development
 * [Class-01](https://reem-alqurm.github.io/ReadingNotes/class-01-301)
+* [Class-02](https://reem-alqurm.github.io/ReadingNotes/class-02-301)
 
 *****************************************************************
 
