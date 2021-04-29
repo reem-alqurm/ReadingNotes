@@ -50,7 +50,12 @@ Here you can find all my reading notes to my jorny at ASAC.
 * [Class-14](https://reem-alqurm.github.io/ReadingNotes/class-14-301)
 * [Class-15](https://reem-alqurm.github.io/ReadingNotes/class-15-301)
 
+### Code 401 - Advanced Software Development
+* [Class-00](https://reem-alqurm.github.io/ReadingNotes/class-00-401)
+* [Class-01](https://reem-alqurm.github.io/ReadingNotes/class-01-401)
 
 *****************************************************************
-
-[![Image](https://img.icons8.com/dotty/2x/linkedin.png)](https://jo.linkedin.com/in/reema-alqerm-a17320142/de)[![Image](https://sirmurphalot.github.io/css/icons/github.png)](https://github.com/ReemAlqurm) 
+<a href="https://jo.linkedin.com/in/reema-alqerm-a17320142/de">
+<img src="https://img.icons8.com/dotty/2x/linkedin.png"  width="50" height="50" /></a>
+<a href="https://github.com/ReemAlqurm">
+<img src="https://sirmurphalot.github.io/css/icons/github.png"  width="50" height="50" /></a>
