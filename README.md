@@ -53,6 +53,7 @@ Here you can find all my reading notes to my jorny at ASAC.
 ### Code 401 - Advanced Software Development
 * [Class-00](https://reem-alqurm.github.io/ReadingNotes/class-00-401)
 * [Class-01](https://reem-alqurm.github.io/ReadingNotes/class-01-401)
+* [Class-02](https://reem-alqurm.github.io/ReadingNotes/class-02-401)
 
 *****************************************************************
 <a href="https://jo.linkedin.com/in/reem-alqurm-a17320142/de">
