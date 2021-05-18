@@ -60,6 +60,10 @@ Here you can find all my reading notes to my jorny at ASAC.
 * [Class-06](https://reem-alqurm.github.io/ReadingNotes/class-06-401)
 * [Class-07](https://reem-alqurm.github.io/ReadingNotes/class-07-401)
 * [Class-08](https://reem-alqurm.github.io/ReadingNotes/class-08-401)
+* [Class-09](https://reem-alqurm.github.io/ReadingNotes/class-09-401)
+* [Class-10](https://reem-alqurm.github.io/ReadingNotes/class-10-401)
+* [Class-11](https://reem-alqurm.github.io/ReadingNotes/class-11-401)
+* [Class-12](https://reem-alqurm.github.io/ReadingNotes/class-12-401)
 
 
 
