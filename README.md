@@ -69,6 +69,7 @@ Here you can find all my reading notes to my jorny at ASAC.
 * [Class-15](https://reem-alqurm.github.io/ReadingNotes/class-15-401)
 * [Class-16](https://reem-alqurm.github.io/ReadingNotes/class-16-401)
 * [Class-17](https://reem-alqurm.github.io/ReadingNotes/class-17-401)
+* [Class-18](https://reem-alqurm.github.io/ReadingNotes/class-18-401)
 
 
 
