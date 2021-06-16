@@ -78,6 +78,7 @@
 * [Class-27](https://reem-alqurm.github.io/ReadingNotes/class-27-401)
 * [Class-28](https://reem-alqurm.github.io/ReadingNotes/class-28-401)
 * [Class-29](https://reem-alqurm.github.io/ReadingNotes/class-29-401)
+* [Class-30](https://reem-alqurm.github.io/ReadingNotes/class-30-401)
 
 
 
