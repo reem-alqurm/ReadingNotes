@@ -84,6 +84,7 @@
 * [Class-33](https://reem-alqurm.github.io/ReadingNotes/class-33-401)
 * [Class-34](https://reem-alqurm.github.io/ReadingNotes/class-34-401)
 * [Class-35-Graphs](https://reem-alqurm.github.io/ReadingNotes/class-35-401)
+* [Class-36-Application State with Redux](https://reem-alqurm.github.io/ReadingNotes/class-36-401)
 
 
 
