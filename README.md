@@ -89,6 +89,7 @@
 * [Class-38-Redux - Asynchronous Actions](https://reem-alqurm.github.io/ReadingNotes/class-38-401)
 * [Class-39-Redux - Additional Topics](https://reem-alqurm.github.io/ReadingNotes/class-39-401)
 * [Class-41-React Native](https://reem-alqurm.github.io/ReadingNotes/class-41-401)
+* [Class-42-Ethics in Tech](https://reem-alqurm.github.io/ReadingNotes/class-42-401)
 
 
 
