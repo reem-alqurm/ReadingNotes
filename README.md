@@ -87,6 +87,7 @@
 * [Class-36-Application State with Redux](https://reem-alqurm.github.io/ReadingNotes/class-36-401)
 * [Class-37-Redux - Combined Reducers](https://reem-alqurm.github.io/ReadingNotes/class-37-401)
 * [Class-38-Redux - Asynchronous Actions](https://reem-alqurm.github.io/ReadingNotes/class-38-401)
+* [Class-39-Redux - Additional Topics](https://reem-alqurm.github.io/ReadingNotes/class-39-401)
 
 
 
