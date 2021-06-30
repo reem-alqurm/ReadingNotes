@@ -1,7 +1,7 @@
 # Reading Notes 
 
 # About Me
-* I'm Reem, I'm just learning to code through ASAC and am looking forward to the journey! You can see my GitHub page [here](https://github.com/reem-alqurm). I previously worked in the social media and digital marketing, but wanted to get back to my univirty major as a software engineer and learn more about codeing in search of a career change. In my spare time I enjoy cooking, singing, walking and gardening.
+* I'm Reem Alqurm, I'm just learning to code through ASAC and am looking forward to the journey! You can see my GitHub page [here](https://github.com/reem-alqurm). I previously worked in the social media and digital marketing, but wanted to get back to my univirty major as a software engineer and learn more about codeing in search of a career change. In my spare time I enjoy cooking, singing, walking and gardening.
 
 # About This Site
 * These are my reading notes from classes at ASAC, where I'll log what I'm learning and notes to remember.
