@@ -80,7 +80,7 @@
 * [Class-29](https://reem-alqurm.github.io/ReadingNotes/class-29-401)
 * [Class-30](https://reem-alqurm.github.io/ReadingNotes/class-30-401)
 * [Class-31](https://reem-alqurm.github.io/ReadingNotes/class-31-401)
-* [Class-32](https://reem-alqurm.github.io/ReadingNotes/class-32-401)
+* [Class-32-Custom Hooks](https://reem-alqurm.github.io/ReadingNotes/class-32-401)
 * [Class-33-Context API](https://reem-alqurm.github.io/ReadingNotes/class-33-401)
 * [Class-34- `<Login />` and `<Auth />`](https://reem-alqurm.github.io/ReadingNotes/class-34-401)
 * [Class-35-Graphs](https://reem-alqurm.github.io/ReadingNotes/class-35-401)
